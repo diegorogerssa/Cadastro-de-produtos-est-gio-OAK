@@ -1,5 +1,7 @@
 # Cadastro de produto - Estágio Oak
 
+### [Link Projeto](https://github.com/diegorogerssa/cadastro-de-produtos-estagio-OAK)
+
 Este é o cadastro de Produtos OAK. Ele é construído usando: Node.js, Express, Docker, PostgreSQL React, Vite, TaiwindCSS, React Router Dom.
 
 ## Configuração
@@ -18,13 +20,13 @@ Este projeto é dividido em duas partes principais: o backend e o frontend.
 
 O backend é construído usando as tecnologias: Node.js, Express, Docker, PostgreSQL. Ele contém todas as rotas da API, os modelos do banco de dados e a lógica do controlador para manipular as solicitações e enviar respostas.
 
-Para mais detalhes, consulte o [README do backend](./backend/README.md).
+Para mais detalhes, consulte o [README do backend](https://github.com/diegorogerssa/cadastro-de-produtos-estagio-OAK/blob/main/backend/readme.md).
 
 ### Frontend
 
 O frontend é construído usando as tecnologias:  React, Vite, TaiwindCSS e React Router Dom. Ele contem toda a lógica para fazer requisições na api e entregar uma tela amigável ao usuario final.
 
-Para mais detalhes, consulte o [README do frontend](./frontend/README.md).
+Para mais detalhes, consulte o [README do frontend](https://github.com/diegorogerssa/cadastro-de-produtos-estagio-OAK/blob/main/frontend/README.md).
 
 ## Contribuindo
 
