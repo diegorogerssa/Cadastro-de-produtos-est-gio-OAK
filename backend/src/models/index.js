@@ -1,4 +1,3 @@
-
 const registerProductModel = require('./registerProductModel');
 const listProductModel = require('./listProductModel');
 

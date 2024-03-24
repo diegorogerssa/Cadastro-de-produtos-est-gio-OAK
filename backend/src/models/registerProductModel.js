@@ -9,8 +9,7 @@ const registerProductModel = async (dataProduct) => {
     price,
     available
     ) VALUES ($1, $2, $3, $4)`;
-  const values = [name, description, price, available] 
-  // const values = [categoriaId];
+  const values = [name, description, price, available];
   const result = await pool.query(sql, values);
   return result;
 }

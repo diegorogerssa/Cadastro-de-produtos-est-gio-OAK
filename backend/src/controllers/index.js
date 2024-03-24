@@ -1,4 +1,3 @@
-
 const registerProductController = require('./registerProductController');
 const listProductController = require('./listProductController');
 

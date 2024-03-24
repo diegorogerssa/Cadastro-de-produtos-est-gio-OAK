@@ -4,7 +4,6 @@ const routes = require('./routes/routes')
 
 const app = express()
 
-
 const corsOptions = {
   origin: 'http://localhost:5173', // Permitir este domínio
   methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',

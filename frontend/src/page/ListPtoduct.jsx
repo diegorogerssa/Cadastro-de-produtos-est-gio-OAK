@@ -13,8 +13,6 @@ function ListProduct() {
     });
   }, []);
   
-  
-
   return (
     <main className='flex flex-col items-center'>
       <h1 className='text-3xl my-6 underline'>Lista de Produtos</h1>

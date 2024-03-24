@@ -1,4 +1,3 @@
-
 const { registerProductModel } = require('../models');  
 
 const registerproductService = (dataProduct) => {

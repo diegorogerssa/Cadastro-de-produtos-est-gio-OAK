@@ -1,4 +1,3 @@
-
 const { registerproductService } = require('../services');
   
 const registerProductController = (req, res) => {
